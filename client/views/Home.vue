@@ -1,18 +1,18 @@
 <template>
   <div class="page">
-    <counter></counter>
     <p>
-      To get started, edit files in <code>./client</code> and save.
+    	data.duyet.net!
+    	<hr />
     </p>
   </div>
 </template>
 
 <script>
-import Counter from 'components/Counter'
+import Header from 'components/Header'
 
 export default {
   components: {
-    Counter
+    Header
   }
 }
 </script>
